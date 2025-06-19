@@ -1,0 +1,4 @@
+## Chat App
+
+React Native ve Firebase kullanılarak geliştirilen basit bir mesajlaşma uygulaması.
+Kullanıcı girişi, gerçek zamanlı mesajlaşma, sohbet geçmişi, profil fotoğrafı ve durum güncelleme özelliklerini içerir.
